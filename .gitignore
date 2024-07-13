@@ -1,0 +1,117 @@
+# dependencies
+/node_modules
+/client/node_modules
+/server/node_modules
+
+# production build
+/client/build
+/server/build
+
+# dotenv environment variables file
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# npm package files
+package-lock.json
+/client/package-lock.json
+/server/package-lock.json
+
+# yarn lock file
+yarn.lock
+/client/yarn.lock
+/server/yarn.lock
+
+# editor files
+.vscode/
+
+# logs
+*.log
+
+# IDE folder
+.idea/
+
+# build files for any tools you might be using
+# Add specific build directories for other tools as needed
+
+# add your own ignores in a similar manner
+# dependencies
+./node_modules
+./client/node_modules
+**/server/node_modules
+
+# production build
+/client/build
+/server/build
+
+# dotenv environment variables file
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# npm package files
+package-lock.json
+/client/package-lock.json
+/server/package-lock.json
+
+# yarn lock file
+yarn.lock
+/client/yarn.lock
+/server/yarn.lock
+
+# editor files
+.vscode/
+
+# logs
+*.log
+
+# IDE folder
+.idea/
+
+# build files for any tools you might be using
+# Add specific build directories for other tools as needed
+
+# add your own ignores in a similar manner
+# dependencies
+/node_modules
+/client/node_modules
+/server/node_modules
+
+# production build
+/client/build
+/server/build
+
+# dotenv environment variables file
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# npm package files
+package-lock.json
+/client/package-lock.json
+/server/package-lock.json
+
+# yarn lock file
+yarn.lock
+/client/yarn.lock
+/server/yarn.lock
+
+# editor files
+.vscode/
+
+# logs
+*.log
+
+# IDE folder
+.idea/
+
+# build files for any tools you might be using
+# Add specific build directories for other tools as needed
+
+# add your own ignores in a similar manner
